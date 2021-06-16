@@ -1,0 +1,39 @@
+**Where to buy it**
+
+The $ALGO token is the native cryptocurrency of the Algorand blockchain. At the genesis of the Algorand blockchain (when the blockchain was initially created), 10 billion $ALGO were minted (created). These 10 billion $ALGO are finite, meaning that there will never be more than these 10 billion $ALGO in circulation at any point. Among the many initial recipients of $ALGO tokens during genesis, a large portion was released through structured selling to cryptocurrency exchanges, where everyday investors like you and I can purchase the $ALGO token.
+
+To buy $ALGO, you will need to create an account at one of the many exchanges that support $ALGO. Some of these include; [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/), [Crypto.com](https://crypto.com/exchange), or [Kraken](https://www.kraken.com/). The list of exchanges supporting the $ALGO token is constantly being updated, so to ensure you are purchasing at the correct exchanges, first take a look at the exchanges listed [here](https://algorand.foundation/the-algo/the-algo-ecosystem). Keep in mind that in order to purchase $ALGO through these exchanges, you will need to provide personal identification, such as a driver’s license or passport, to comply with [KYC/AML](https://www.sygna.io/blog/what-is-aml-kyc-in-crypto/) laws. 
+
+**Where to store it**
+
+Once you’ve purchased your $ALGO token(s), you will next want to store it some place secure. Many of the exchanges where you may have bought your $ALGO have their own wallet infrastructure that can securely hold your $ALGO for you. However, unless you are actively trading $ALGO for other cryptocurrencies on those exchanges, it is best to store your $ALGO in one of the many available wallets. This will not only give you more authority, and potentially security of your $ALGO tokens, but will allow you to collect the largest amount possible of the standard [staking](https://algorand.foundation/algorand-protocol/about-algorand-protocol/pure-proof-of-stake) rewards. If you store your $ALGO on one of the exchanges, it is likely that the exchange will take a fraction of these rewards as a ‘fee’ for holding your $ALGO for you. 
+
+The best place to store your $ALGO is the [Algorand Official Wallet](https://algorandwallet.com/) on your mobile device. It gives you full control of your $ALGO, as well as allows you to collect the maximum amount of staking rewards. It also will allow you to send & receive $ALGO transactions instantly. To send someone $ALGO, all you will need is their wallet address. Addresses can be generated and shared very easily via QR codes. As a buyer, the $ALGO leaves your wallet and is immediately in the wallet of the seller, at virtually no cost. 
+
+In addition to the official Algorand Wallet, [other wallets](https://algorand.foundation/the-algo/the-algo-ecosystem) exist that have unique features or capabilities. Before using any Algorand wallet, make sure that it is listed [here](https://algorand.foundation/the-algo/the-algo-ecosystem) to ensure it is supported and recognized by the Algorand Foundation. 
+
+One wallet that has seen a lot of success and adoption is the [My Algo](https://wallet.myalgo.com/home) Algorand wallet. This is a browser-based Algorand wallet, that allows you to very easily store, transfer, and earn staking rewards on your $ALGO tokens, similar to the official Algorand wallet. It will also allow you to interact with many of the Algorand dapps (decentralized applications) built on the web, including the first Algorand DeFi application; [Yieldly.Finance](https://yieldly.finance/), which we will discuss below.
+
+**How to earn rewards**
+
+Earning $ALGO rewards is very simple. All you need to do is hold at least one $ALGO in your wallet, and you will automatically earn rewards. Currently, rewards are distributed, on average, every 9 minutes to all the accounts holding at least the minimum required balance of 1 Algo. The current rewards rate is around 5-6%. The [Algo Explorer](https://algoexplorer.io/) application has a helpful [calculator](https://algoexplorer.io/rewards-calculator) that can give you an idea of the specific amount of rewards you can receive, depending on how many $ALGO tokens you hold.
+
+The rewards distribution rate is determined and funded by the Algorand Foundation and will [change over time](https://algorand.foundation/the-algo/algo-dynamics) as the ecosystem grows.
+
+For a deep technical dive into how rewards are implemented in Algorand, checkout these [blog](https://www.algorand.com/resources/blog/rewards-technical-overview) [posts](https://www.purestake.com/blog/algorand-rewards-distribution-explained/).
+
+**How to use it in DeFi applications**
+
+DeFi (decentralized finance) is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains. DeFi has seen massive adoption on Ethereum but has been hindered by the technical shortcomings of the Ethereum blockchain. The $ALGO tokens speed, scale, and low transaction costs make it a much more efficient blockchain to [build DeFi applications](https://www.algorand.com/technology) on.
+
+One of the most promising current DeFi projects you can use your $ALGO tokens on is [Yieldly.Finance](https://yieldly.finance/). Using Yieldly, you can participate in a [no-loss lottery](https://yieldly.finance/no-loss-lottery-staging/), [multi-asset staking](https://yieldly.finance/asset-staking/), and [cross-chain swapping](https://yieldly.finance/bridges/). All of these DeFi applications allow you fun and novel ways to invest your $ALGO tokens while earning additional yield in both $ALGO, as well as the native Yieldly token; $YLDY.
+
+**Governance**
+
+In addition to being used for transactions on the Algorand blockchain, the $ALGO token also allows for token holders to participate in [governance](https://algorand.foundation/the-algo/algo-governance) of the Algorand network. Any $ALGO holder can participate in governance, which requires staking of your $ALGO tokens for a 3 month governance period. Governance participation will allow you to vote on major economic and policy decisions influencing the future of the network. The governance program will open in [Q4 2021](https://algorand.foundation/gov-faq).
+
+**$ALGO for everyday payments/transactions**
+
+Boston-based blockchain technology company [Bleumi](https://bleumi.com/index.html) allows companies to easily accept cryptocurrencies, like the $ALGO token, for everyday payment and payout use-cases. Italy’s oldest coffee roastery, [Caffé Barbera](https://www.cafebarbera.com/italian-tradition-meets-digital-innovation/), is an example of one vendor where you can purchase tangible goods using the $ALGO token. 
+
+The Algorand ecosystem is constantly evolving, and new use-cases for the $ALGO token are being introduced frequently. To see a comprehensive list of all projects that are being built on the Algorand platform, check out [this page](https://www.algorand.com/ecosystem/use-cases) where new projects will be continuously added. We hope this blog post has helped demystify the $ALGO token for you, and hope you join us on our journey to build the future decentralized, borderless economy with $ALGO.
