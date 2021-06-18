@@ -1,0 +1,29 @@
+In this blog post we are going to discuss Algorand’s unique approach to community governance, and how any $ALGO holder, regardless of the amount of $ALGO they are holding, can influence and govern the future of the Algorand ecosystem.
+
+Currently, in Algorand, every account may participate in consensus. Algorand’s consensus protocol allows the network to securely select users to propose, vote, and certify blocks for a given round, ensuring that the blockchain is secure, and operating efficiently. In addition to being used for certifying blocks, the Algorand platform uses a similar consensus approach to protocol changes for the network. This facilitates continuous evolution of the protocol and eliminates potential hard forks that could fracture the community. This is to prevent hard forking incidents like ones that have occurred in other blockchains i (e.g., Ethereum vs. Ethereum Classic, Bitcoin vs. Bitcoin Cash).
+
+Governance, however, is the power of deciding non-consensus tasks. More specifically, allowing all participants to influence monetary, technical, and other policy decisions around the Algorand eco-system. This will allow every one of us participating in the Algorand community to shape the shared future of the Algorand network, and do so in a decentralized, secure, and efficient manner.
+
+Today, governance is primarily performed by the Algorand Foundation. Specifically, the Foundation uses this governance to hold decision making power over the Algorand Ecosystem Resource Pool (AERP). The AERP is a collection consists of 3.2 billion Algo’s reserved for the following purposes: 
+
+•	Participation Rewards – a fund designed to support the incentives to the community, specifically participation rewards
+•	Research and Innovation funds - A fund designed to support projects with a significant opportunity to create long term business success, built on Algorand.
+•	$ALGO Grant Program - Grant funding program designed to support infrastructure development for the Algorand ecosystem and the creation of proof of concept use cases
+•	Research and Social Good Program - Partnership funding to support primary research in key areas of blockchain development and broad cryptography
+•	Contingent Incentives - a reserve or contingency fund established to enable the Foundation and the Governors to address unforeseen trends or needs that may have a negative effect on the growth of the ecosystem
+
+In continued efforts towards making Algorand a truly decentralized network, the Algorand Foundation is yielding this decision-making power to any $ALGO holder that chooses to participate. The beginning of Community Governance, to allow any $ALGO holder to have decision making power over the AERP, is scheduled to begin in Q4 of 2021. This initial implementation will be done off-chain, with on-chain governance being implemented in the first half of 2022. The Community Governance process will consist of three distinct areas:
+
+1.	Governors’ recruitment and rewards – allow any $ALGO holder to sign up as a governor to at the beginning of every three-month period by committing Algos to the program, and collecting their rewards at the end of the period. 
+2.	Voting - This process encompasses deciding on the topics to be voted on in each voting session, the governors voting on these proposals, and the finalization of the results of the votes. 
+3.	Execution of the decisions - After the results are finalized, they are executed by the Foundation.
+
+The process to enroll to be a Governor and earn rewards is very straight forward. You will just need to enroll at least one $ALGO token for the full duration of the governance period (3 months), and participate in any votes that are called within that period. Each $ALGO token you have staked would equate to 1 vote. If you meet these simple criteria, you will be able to claim your full Governance Rewards at the end of the governance period.
+
+What makes Algorand Governance different than previous blockchain governance programs?
+
+1.	It is a truly decentralized form of governance - Anyone with at least one $ALGO can participate in governance, unlike Proof of Work blockchains like Bitcoin & Ethereum where only miners with expensive mining hardware, and the core protocol developers, can influence or participate in consensus and therefore governance. One of the main criticisms of the Proof of Work form of informal governance is that governance is in fact centralized amongst these miners and developers. In Algorand anyone can participate in governance, even if they hold just one single $ALGO, resulting in a truly decentralized governance process.
+2.	It is fast – Informal governance systems like those used by Bitcoin & Ethereum require time and effort to achieve consensus, which can take months to come to fruition and be implemented. With on-chain governance like that in Algorand, any proposed governance changes can be implemented to the network immediately following the passing of a vote, through smart contracts.
+3.	Risk of Forking is eliminated - Since all $ALGO holders can participate in governance, it is improbable for there to ever be a situation where governors vote to create a hard fork of Algorand. To do so would be a self-destructive event, where you would effectively be voting to reduce the value of the very assets ($ALGO tokens) you have invested in the Algorand network.
+
+In conclusion, we have discussed how Algorand’s unique community governance model is revolutionary in allowing every single one of us, regardless of whether we own 1 $ALGO, or millions of $ALGO’s, to influence the future of the Algorand eco-system. This has all been made possible by the revolutionary Algorand blockchain, which has successfully solved the Blockchain trilemma; providing decentralization, scalability, and security at not only the protocol level, but at the governance level as well.
